@@ -11,6 +11,13 @@ body{
     justify-content: center;
     align-items: center;
     background-color: black;
+    flex-direction: column;
+    color: white;
+}
+p{
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: sans-serif;
 }
 canvas{
     position: absolute;
